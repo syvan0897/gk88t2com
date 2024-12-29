@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+GK88 | Cổng Game Trực Tuyến Hàng Đầu | Đăng Ký GK88.com Tặng 88K 
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`GK88 <https://gk88t2.com/>`_ là nhà cái uy tín số 1 thị trường cá cược Châu Á nhờ các dịch vụ hỗ trợ người chơi chất lượng. Giữa năm 2024, GK88.COM đã cho ra mắt sản phẩm bàn phím cơ Assassins nhằm giúp cho anh em có thể trải nghiệm tốt nhất khi tham gia các trò chơi. Assassins GK 88 chắc chắn là người bạn đồng hành lý tưởng cho quý khách hàng trong quá trình kiếm tiền tại nhà cái.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 190 Đ. Bờ Sông Sét, Đồng Tâm, Hoàng Mai, Hà Nội 10000, Việt Nam. 
 
-   This project is under active development.
+Phone: 0855677412. 
 
-Contents
---------
+Email: info@gk88t2.com. 
 
-.. toctree::
+Website: https://gk88t2.com/ 
 
-   usage
-   api
+#gk88 #trangchugk88 #dangkygk88 #dangnhapgk88 #linkgk88
